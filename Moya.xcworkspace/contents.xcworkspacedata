@@ -13,4 +13,7 @@
    <FileRef
       location = "group:submodules/ReactiveCocoa/External/swiftz/swiftz_core/swiftz_core.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:submodules/BrightFutures/BrightFutures.xcodeproj">
+   </FileRef>
 </Workspace>
